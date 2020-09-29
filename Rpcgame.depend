@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601141453 source:e:\unschool\rpcgame\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
